@@ -4,7 +4,7 @@ About us page
 
 # Please Replace
 
-1- Replace "/</!--but flip book blugin code here-->" in html file with the plugin code (flip book plugin).
+1- Replace "<! --but flip book blugin code here-->" in html file with the plugin code (flip book plugin).
 
 2- But the 7 images in images folder in magento host, and replace their url in html file:
 
@@ -17,3 +17,5 @@ in img element in code section5 and section 7, section 5 => replace img element'
 In arabic page import style-ar.css only.
 
 In france page import both style-en.css then style.fr.css in order.
+
+4- Import about-us-script in all html files, before </ body> tag
