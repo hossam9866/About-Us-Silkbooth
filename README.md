@@ -18,4 +18,4 @@ In arabic page import style-ar.css only.
 
 In france page import both style-en.css then style.fr.css in order.
 
-4- Import about-us-script in all html files, before </ body> tag
+4- Import about-us-script.js in all html files, before </ body> tag
