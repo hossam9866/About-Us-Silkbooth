@@ -13,5 +13,7 @@ In head element you will find style element with background-image attributes (bg
 in img element in code section5 and section 7, section 5 => replace img element's src with urls of(bg7.img, bg5.img)
 
 3- In english page import style-en.css only.
+
 In arabic page import style-ar.css only.
+
 In france page import both style-en.css then style.fr.css in order.
