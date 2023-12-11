@@ -4,7 +4,7 @@ About us page
 
 # Please Replace
 
-1- Replace "<!--but flip book blugin code here-->" in html file with the plugin code (flip book plugin).
+1- Replace "/</!--but flip book blugin code here-->" in html file with the plugin code (flip book plugin).
 
 2- But the 7 images in images folder in magento host, and replace their url in html file:
 In head element you will find style element with background-image attributes (bg1.img, bg2.img, bg3.img, bg4.img, bg6.img)
