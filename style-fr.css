@@ -1,0 +1,38 @@
+.title-bold {
+  font-size: 40px;
+}
+
+.pargraph-normal {
+  font-size: 14px;
+}
+
+.section2 .card {
+  max-width: 600px;
+}
+
+@media (max-width: 1200px) {
+  .title-bold {
+    font-size: 30px;
+  }
+  .pargraph-normal {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 850px) {
+  .title-bold {
+    font-size: 25px;
+  }
+  .pargraph-normal {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 500px) {
+  .section1 {
+    height: 830px;
+  }
+  .section2 {
+    height: 810px;
+  }
+}
